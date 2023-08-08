@@ -1,0 +1,7 @@
+Make an instance of the data from data.js
+make a 'li' object to contain the student info (name, pic and contacts)
+loop trough the data and for each student create a 'li'
+    insert the 'li' object as child of the 'ul' 
+    once the page holds 9 'li' (students) create a 2nd page and so on
+make an input search bar to find students so...
+filter based on the characters in the input field

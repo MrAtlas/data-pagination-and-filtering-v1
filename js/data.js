@@ -720,3 +720,12 @@ const data = [
     },
   },
 ];
+
+
+/**
+ * I was wondering how do I get access to this data from script.js, I didn't know if treehouse explained it
+ * so I searched on google and found this
+ * https://stackoverflow.com/questions/61213322/how-to-import-object-to-another-file
+ * I tried console.log on the data and it worked without the require method
+ */
+module.exports = data;
